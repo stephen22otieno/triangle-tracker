@@ -22,7 +22,7 @@
     Moringa School supported me alot inorder to acquire the knowledge that i used
     to establish this program
     
-    ### LICENEE
+    ### LICENce
   
   Copyright (c) 2018
 Link  https://github.com/stephen22otieno/triangle-tracker.git
