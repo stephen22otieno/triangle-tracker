@@ -11,8 +11,6 @@
   
   ## Setup Requirement
     
-    
-  ## Known Bugs
   
   ## Technology Used
    The different types of language were to make this Triangle-Tracker
