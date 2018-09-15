@@ -10,7 +10,8 @@
   Stephen Otieno
   
   ## Setup Requirement
-  
+     Clone Repository from GitHub.
+     Open the triangle_tracker.html file in your web browser
     
   ##Known Bugs
   ## Technology Used
