@@ -22,7 +22,7 @@
     Moringa School supported me alot inorder to acquire the knowledge that i used
     to establish this program
     
-    ### LICENCE
+  ### LICENCE
     The MIT License
 SPDX short identifier: MIT
 
