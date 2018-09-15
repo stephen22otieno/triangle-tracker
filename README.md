@@ -4,7 +4,7 @@
 
 ## Description
   This is the new invented Triangle-Tracker that will help the individual to determine 
-  the type of the Triangle.
+  the type of the Triangle by inputting its three side values
   
  ## By
   Stephen Otieno
