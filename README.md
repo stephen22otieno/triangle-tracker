@@ -12,8 +12,7 @@
   ## Setup Requirement
      Clone Repository from GitHub.
      Open the triangle_tracker.html file in your web browser
-    
-  ##Known Bugs
+ 
   ## Technology Used
    The different types of language were to make this Triangle-Tracker
    HTML, CSS, JAVASCRIPT
