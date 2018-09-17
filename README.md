@@ -1,6 +1,5 @@
 # Triangle-Tracker
 
-## My-Triangle-Tracker Ever
 
 ## Description
   This is the new invented Triangle-Tracker that will help the individual to determine 
