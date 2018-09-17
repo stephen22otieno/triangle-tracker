@@ -13,8 +13,10 @@
      Open the triangle_tracker.html file in your web browser
  
   ## Technology Used
-   The different types of language were to make this Triangle-Tracker
-   HTML, CSS, JAVASCRIPT
+   Language used:-
+    HTML
+    CSS/STYLES.CSS
+    JAVASCRIPT
    
    ## Support and Contact details
     Moringa School supported me alot inorder to acquire the knowledge that i used
