@@ -19,6 +19,15 @@ h1 {
   font-family:comic sans;
   margin-top:5%;
   border:2px;
+    font: 600 1.5em/1 'Raleway', sans-serif;
+    /* color: rgba(0,0,0,.5); */
+    /* text-align: center; */
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    /* position: absolute; */
+    /* top: 25%; */
+    /* width: 100%; */
+}
 }
 .form-group {
   margin:30px;
@@ -62,4 +71,10 @@ div.transbox {
         margin: 6px 0;
     }
 
+}
+.design{
+  color:yellow;
+  padding:20px;
+  /* text-transform:lowercase; */
+  
 }

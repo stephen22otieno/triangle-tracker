@@ -1,15 +1,15 @@
 var
 triangleTracker = function(a, b, c) {
    if((a === b) && (a == c ) && (b === c)) {
-       alert ("Equilateral KEEPIN IT REAL EVEN IF T KILLS  ");
+       alert ("Equilateral");
    } else if ((a === b) || (a === c )) {
-       alert ("Isosceles WLD U STIL LUV ME IF U FOUND OUT I WAS THUGGIN");
+       alert ("Isosceles");
    } else if ((a === b) || (b === c )) {
-       alert ("Isosceles  NEVER HAD TTT WITH A RICHMANS'S DOWTA");
+       alert ("Isosceles");
    } else if ((b === c) || (a === c )) {
-       alert ("Isosceles wonder if heaven got a ghetto");
+       alert ("Isosceles");
    } else if ((a !== b) && (a !== c) && (b !== c)) {
-       alert ("Scalene  snitches get stitches");
+       alert ("Scalene");
    }
 };
 
